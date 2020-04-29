@@ -18,7 +18,7 @@ bash downUtils.sh \
 --dst_dir="C:/Users/xxx/Desktop/"
 ```
 
-说明：实际还是会下载整个项目，只不过Git操作时会隐藏其他内容。
+说明：实际还是会下载整个项目，只不过Git操作时会隐藏其他内容。需要提前安装好Git工具。
 
 
 
